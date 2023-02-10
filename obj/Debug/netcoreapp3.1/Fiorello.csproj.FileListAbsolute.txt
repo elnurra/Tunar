@@ -129,8 +129,6 @@ C:\Users\user\source\repos\Fiorello\bin\Debug\netcoreapp3.1\runtimes\unix\lib\ne
 C:\Users\user\source\repos\Fiorello\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\user\source\repos\Fiorello\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\staticwebassets\Fiorello.StaticWebAssets.Manifest.cache
-C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\staticwebassets\Fiorello.StaticWebAssets.xml
-C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fiorello.styles.css
 C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Fiorello.TagHelpers.input.cache
 C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Fiorello.TagHelpers.output.cache
 C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Fiorello.RazorCoreGenerate.cache
@@ -146,3 +144,9 @@ C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Fiorello.csproj.Copy
 C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Fiorello.dll
 C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Fiorello.pdb
 C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Fiorello.genruntimeconfig.cache
+C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductPartial.cshtml.g.cs
+C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\staticwebassets\Fiorello.StaticWebAssets.xml
+C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fiorello.styles.css
+C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\user\source\repos\Fiorello\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Blog\Default.cshtml.g.cs
